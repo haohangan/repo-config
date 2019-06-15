@@ -1,1 +1,1 @@
-url: http://192.168.2.101:8761/eureka,http://192.168.2.103:8761/eureka
+url: http://192.168.2.101:8761/eureka,http://192.168.2.101:8762/eureka
